@@ -1,0 +1,15 @@
+******************************************************************Principais comandos no terminal:******************************************************************
+
+- echo ‘mensagem’: imprime uma mensagem no terminal. Se colocarmos echo ‘mensagem’ >> arquivo, ele injeta dentro do arquivo esse conteúdo.
+- pwd: exibe o diretório atual.
+- ls: lista os arquivos do diretório atual.
+- mkdir: cria uma nova pasta.
+- cd: navega entre as pasta do diretorio. Colocando .., volta pro diretorio anterior.
+- touch: cria um arquivo;
+- cat arquivo: exibe o conteúdo de um arquivo.
+- cp arquivo1 arquivo2 : copia o conteúdo do arquivo1 para o arquivo2. Se o arquivo2 não existir, é criado na hora.
+- mv arquivo1 arquivo2: move todo o conteúdo de arq1 para arq2. Apaga arq1.
+- rm arq1: remove arq1. Podemos usar rm -rf pasta para apagar um diretório.
+- clear: limpa o terminal.
+- history: mostra os últimos comandos executados.
+- exit:  fecha o terminal.
