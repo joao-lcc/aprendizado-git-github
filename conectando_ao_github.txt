@@ -1,0 +1,15 @@
+********************************************Clonar projetos github********************************************
+
+git clone url  → clona todo o projeto para o diretório
+
+****************Adicionando projetos ao Github****************
+
+git remote add origin url: linka o projeto ao repositório
+
+git push origin master: sobe o projeto ao repositório
+
+git pull origin master: baixa os códigos do repositório.
+
+****************************Ignorando arquivos****************************
+
+Criamos um arquivo .gitignore e nele vamos colocar os nomes dos arquivos que o git irá ignorar.
