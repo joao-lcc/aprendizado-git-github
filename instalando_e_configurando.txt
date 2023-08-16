@@ -1,0 +1,27 @@
+****Fazendo um commit****
+
+Commit: gerar uma versão salva dos arquivos. 
+
+git add ‘nome do arquivo’: adiciona o arquivo á uma nova área, um meio termo entre monitorado e nao monitorado. 
+
+git add . : manda para o staged todos os arquivos que foram modificados. 
+
+git commit -m ‘Descrição da ação que você fez” 
+
+********Logs********
+
+git log —pretty=oneline : mostra os commits feitos naquele diretório.
+
+******************************************Visualizando as diferenças******************************************
+
+git diff: mostra o que mudou e o que não mudou nos arquivos.
+
+git diff —name-only: mostra o nome dos arquivos que foram modificados.
+
+******************************************Desfazendo alterações******************************************
+
+git commit —amend: permite a alteração de um commit.
+
+git reset HEAD arq: tira um arquivo modificado do stage.
+
+git checkout — arq: desfaz as alterações feitas em um arquivo, voltando ele á versão do último commit.
