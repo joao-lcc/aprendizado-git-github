@@ -1,0 +1,5 @@
+****************************************O que é git:**************************************** sistema de controle de versão de arquivos. Permite que várias pessoas trabalhem em um mesmo projeto com maior facilidade.
+
+Permite recuperar versões específicas de arquivos e registra as modificações feitas.
+
+********************************O que é github:******************************** serviço de hospedagem pra projetos git.
