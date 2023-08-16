@@ -1,0 +1,23 @@
+****************Branchs****************
+
+Servem para desenvolver features isoladas.
+
+Branch master → principal
+
+É possível juntar as branchs para obter o produto final.
+
+git branch: mostra as branchs criadas.
+
+git branch nome: cria uma branch nova.
+
+git checkout nome: acessa uma branch.
+
+Os commits feitos em uma branch ficam apenas nela. Se mudarmos, essas alterações não aparecem.
+
+git branch -d nome: apaga uma branch.
+
+git checkout -b nome: cria uma branch e ja acessa ela.
+
+merge: comando que envia as mudanças de uma branch para outra
+
+git merge nome: adiciona o conteúdo da branch ‘nome’ á branch atual.
