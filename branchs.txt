@@ -21,3 +21,7 @@ git checkout -b nome: cria uma branch e ja acessa ela.
 merge: comando que envia as mudanças de uma branch para outra
 
 git merge nome: adiciona o conteúdo da branch ‘nome’ á branch atual.
+
+
+
+TO MALUCOOOO
